@@ -1,4 +1,4 @@
-# Hello!
+# desafio_dio_hello!
 
 Este é um pacote Python simples que contém funções para exibir uma saudação "Hello, World!" e cumprimentar o usuário de acordo com o horário atual do sistema.
 
@@ -25,7 +25,7 @@ pip install .
 
 ## Exemplo de uso
 ```python
-from meu_pacote import falar_hello_world, cumprimentar_usuario
+from desafio_dio_hello import falar_hello_world, cumprimentar_usuario
 
 # Exibir 'Hello, World!'
 print(falar_hello_world())
