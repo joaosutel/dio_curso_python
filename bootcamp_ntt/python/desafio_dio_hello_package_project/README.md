@@ -25,7 +25,7 @@ pip install .
 
 ## Exemplo de uso
 ```python
-from desafio_dio_hello import falar_hello_world, cumprimentar_usuario
+from desafio_dio_hello_package.hello import falar_hello_world, cumprimentar_usuario
 
 # Exibir 'Hello, World!'
 print(falar_hello_world())
